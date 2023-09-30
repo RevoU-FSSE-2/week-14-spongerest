@@ -32,11 +32,11 @@ If you are developing a production application, we recommend updating the config
 
 ![Alt text](./src/assets/W141.png)
 
-![Alt text](./src/assets/W142.png)
+![Alt text](./src/assets/w142.png)
 
-![Alt text](./src/assets/W143.png)
+![Alt text](./src/assets/w143.png)
 
-![Alt text](./src/assets/W144.png)
+![Alt text](./src/assets/w144.png)
 
 ![Alt text](./src/assets/W145.png)
 
